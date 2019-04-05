@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXDocking_EmbedBar/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXDocking_EmbedBar/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXDocking_EmbedBar/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_EmbedBar/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXDocking_EmbedBar/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXDocking_EmbedBar/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to embed a bar into a dock panel
